@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/semo/development/arbeit/kafkawrap/main.cpp
+iostream
+-
+cstdio
+-
+cerrno
+-
+cstring
+-
+fstream
+-
+librdkafka/rdkafka.h
+-
+
