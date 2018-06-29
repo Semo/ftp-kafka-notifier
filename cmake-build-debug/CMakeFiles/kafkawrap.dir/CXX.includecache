@@ -17,6 +17,8 @@ cstring
 -
 fstream
 -
+signal.h
+-
 librdkafka/rdkafka.h
 -
 

@@ -1,1 +1,1 @@
-/usr/bin/g++  -g   CMakeFiles/kafkawrap.dir/main.cpp.o  -o kafkawrap  -L/usr/local/lib -Wl,-rpath,/usr/local/lib -lrdkafka 
+/usr/bin/g++   -O0 -Wall -pedantic -Wextra -g   CMakeFiles/kafkawrap.dir/main.cpp.o  -o kafkawrap  -L/usr/local/lib -Wl,-rpath,/usr/local/lib -lrdkafka 
